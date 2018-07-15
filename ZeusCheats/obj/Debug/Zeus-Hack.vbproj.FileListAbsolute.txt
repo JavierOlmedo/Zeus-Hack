@@ -1,0 +1,13 @@
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\bin\Debug\Zeus-Hack.exe.config
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\bin\Debug\Zeus-Hack.exe
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\bin\Debug\Zeus-Hack.pdb
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\bin\Debug\Zeus-Hack.xml
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\obj\Debug\Zeus-Hack.vbprojAssemblyReference.cache
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\obj\Debug\ZeusHack.about.resources
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\obj\Debug\ZeusHack.Form1.resources
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\obj\Debug\ZeusHack.Resources.resources
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\obj\Debug\Zeus-Hack.vbproj.GenerateResource.cache
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\obj\Debug\Zeus-Hack.vbproj.CoreCompileInputs.cache
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\obj\Debug\Zeus-Hack.exe
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\obj\Debug\Zeus-Hack.xml
+C:\Users\jjavi\Desktop\ZeusCheats\ZeusCheats\obj\Debug\Zeus-Hack.pdb
